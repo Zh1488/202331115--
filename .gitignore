@@ -3,3 +3,10 @@
 *.iml 
 out/ 
 *.class 
+.idea/ 
+*.iml 
+out/ 
+*.class 
+target/ 
+build/ 
+*.log 
