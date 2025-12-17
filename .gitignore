@@ -1,0 +1,5 @@
+# Java项目忽略文件 
+.idea/ 
+*.iml 
+out/ 
+*.class 
