@@ -1,12 +1,18 @@
-# Java项目忽略文件 
-.idea/ 
-*.iml 
-out/ 
-*.class 
-.idea/ 
-*.iml 
-out/ 
-*.class 
-target/ 
-build/ 
-*.log 
+# IDE files
+.idea/
+*.iml
+
+# Compiled files
+out/
+*.class
+target/
+build/
+bin/
+
+# Log files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
